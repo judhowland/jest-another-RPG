@@ -1,0 +1,28 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "Role Player Game",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/judhowland/jest-another-RPG.git"
+  },
+  "keywords": [
+    "jest",
+    "role",
+    "player",
+    "game"
+  ],
+  "author": "judhowland",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/judhowland/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/judhowland/jest-another-RPG#readme",
+  "devDependencies": {
+    "jest": "^26.1.0"
+  }
+}
